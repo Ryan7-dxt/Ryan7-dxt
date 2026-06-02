@@ -20,7 +20,10 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 
 <h2>📚 Atualmente estudando</h2>
 
+
 ---
+
+
 <h2>🎯 Objetivos</h2>
 
 <ul>
@@ -55,8 +58,6 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
   ✅ Trabalho em equipe</li>
   ✅ Adaptabilidade a novos desafios</li>
 </ul>
-
---- 
 
 ---
 
