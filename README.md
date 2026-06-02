@@ -66,7 +66,7 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 ---
 
 <h2>📫 Contato</h2>
-
+ryan.senai160@gmail.com
 <hr>
 
 <p align="center">
