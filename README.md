@@ -17,10 +17,17 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 </p>
 
 ---
-
 <h2>📚 Atualmente estudando</h2>
 
-
+<p>
+🐍 Python <br>
+🐧 Linux (Ubuntu) <br>
+⚙️ Engenharia de Software <br>
+🔌 Arduino e eletrônica básica <br>
+💻 C++ <br>
+🖥️ Windows CMD e automação de tarefas <br>
+🌐 Git e GitHub
+</p>
 ---
 
 
@@ -31,18 +38,6 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
   <li>Aprofundar conhecimentos em desenvolvimento de software</li>
   <li>Adquirir experiência prática na área de tecnologia</li>
   <li>Conquistar minha primeira oportunidade como desenvolvedor</li>
-</ul>
-
----
-
-<ul>
-  🐍 Python</li>
-  🐧 Linux (Ubuntu)</li>
-  ⚙️ Engenharia de Software</li>
-  🔌 Arduino e eletrônica básica</li>
-  💻 C++</li>
-  🖥️ Windows CMD e automação de tarefas</li>
-  🌐 Git e GitHub</li>
 </ul>
 
 ---
