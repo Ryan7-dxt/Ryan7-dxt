@@ -44,16 +44,15 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 
 <h2>💡 Qualidades</h2>
 
-<ul>
-  ✅ Facilidade para aprender novas tecnologias</li>
-  ✅ Comprometimento com os estudos</li>
-  ✅ Organização e disciplina</li>
-  ✅ Curiosidade e busca constante por conhecimento</li>
-  ✅ Resolução de problemas</li>
-  ✅ Trabalho em equipe</li>
-  ✅ Adaptabilidade a novos desafios</li>
-</ul>
-
+<p>
+✅ Facilidade para aprender novas tecnologias <br>
+✅ Comprometimento com os estudos <br>
+✅ Organização e disciplina <br>
+✅ Curiosidade e busca constante por conhecimento <br>
+✅ Resolução de problemas <br>
+✅ Trabalho em equipe <br>
+✅ Adaptabilidade a novos desafios
+</p>
 ---
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
