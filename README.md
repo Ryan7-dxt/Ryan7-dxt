@@ -28,8 +28,8 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 🖥️ Windows CMD e automação de tarefas <br>
 🌐 Git e GitHub
 </p>
----
 
+---
 
 <h2>🎯 Objetivos</h2>
 
