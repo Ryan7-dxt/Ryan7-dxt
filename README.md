@@ -20,14 +20,26 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 
 <h2>📚 Atualmente estudando</h2>
 
+---
+<h2>🎯 Objetivos</h2>
+
 <ul>
-  <li>🐍 Python</li>
-  <li>🐧 Linux (Ubuntu)</li>
-  <li>⚙️ Engenharia de Software</li>
-  <li>🔌 Arduino e eletrônica básica</li>
-  <li>💻 C++</li>
-  <li>🖥️ Windows CMD e automação de tarefas</li>
-  <li>🌐 Git e GitHub</li>
+  <li>Desenvolver projetos que fortaleçam meu portfólio</li>
+  <li>Aprofundar conhecimentos em desenvolvimento de software</li>
+  <li>Adquirir experiência prática na área de tecnologia</li>
+  <li>Conquistar minha primeira oportunidade como desenvolvedor</li>
+</ul>
+
+---
+
+<ul>
+  🐍 Python</li>
+  🐧 Linux (Ubuntu)</li>
+  ⚙️ Engenharia de Software</li>
+  🔌 Arduino e eletrônica básica</li>
+  💻 C++</li>
+  🖥️ Windows CMD e automação de tarefas</li>
+  🌐 Git e GitHub</li>
 </ul>
 
 ---
@@ -37,23 +49,14 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 <ul>
   ✅ Facilidade para aprender novas tecnologias</li>
   ✅ Comprometimento com os estudos</li>
-  <li>✅ Organização e disciplina</li>
-  <li>✅ Curiosidade e busca constante por conhecimento</li>
-  <li>✅ Resolução de problemas</li>
-  <li>✅ Trabalho em equipe</li>
-  <li>✅ Adaptabilidade a novos desafios</li>
+  ✅ Organização e disciplina</li>
+  ✅ Curiosidade e busca constante por conhecimento</li>
+  ✅ Resolução de problemas</li>
+  ✅ Trabalho em equipe</li>
+  ✅ Adaptabilidade a novos desafios</li>
 </ul>
 
----
-
-<h2>🎯 Objetivos</h2>
-
-<ul>
-  <li>Desenvolver projetos que fortaleçam meu portfólio</li>
-  <li>Aprofundar conhecimentos em desenvolvimento de software</li>
-  <li>Adquirir experiência prática na área de tecnologia</li>
-  <li>Conquistar minha primeira oportunidade como desenvolvedor</li>
-</ul>
+--- 
 
 ---
 
