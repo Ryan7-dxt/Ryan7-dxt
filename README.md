@@ -53,6 +53,7 @@ Sou estudante de ADS, focado em desenvolver conhecimentos práticos e construir 
 ✅ Trabalho em equipe <br>
 ✅ Adaptabilidade a novos desafios
 </p>
+
 ---
 
 <h2>🚀 Tecnologias e Ferramentas</h2>
